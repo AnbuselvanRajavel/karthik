@@ -3,6 +3,7 @@ body {
   text-align: center;
   background-color: #fff;
   margin-left: 0;
+  margin-right: 0;
 
 }
 
@@ -87,12 +88,13 @@ padding-bottom: 20px;
    text-align: right;
    position: relative;
    bottom: 15px;
+   left: 30px;
    border-radius: 100%;
  }
 
  .img2 {
    height: 200px;
-   width: 200px;
+   width: 300px;
    float: right;
    margin-left: 20px;
    line-height: 4;
