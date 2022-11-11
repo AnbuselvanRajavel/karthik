@@ -66,7 +66,7 @@ hr {
    padding-top: 20px;
    width: 100%;
    position: absolute;
-   top:40px;
+   bottom: 0px;
 
  }
 
@@ -130,7 +130,7 @@ padding-bottom: 20px;
  }
 .hr2 {
   position: relative;
-  left: 20px;
-  top: 10px;
+  left: 40px;
+  top: 20px;
   
 }
