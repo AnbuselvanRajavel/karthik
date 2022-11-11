@@ -8,11 +8,9 @@ body {
 
 #background{
   background-image: url("tricolor.jpg");
-  background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 0.5;
-}
+  background-size: 100%;
+ }
 
 hr {
   border-style: none;
@@ -74,7 +72,7 @@ hr {
    padding-top: 20px;
    width: 100%;
    position: absolute;
-   top:auto;
+   top:20px;
 
  }
 
@@ -87,17 +85,17 @@ padding-bottom: 20px;
  }
 
  .img1 {
-   height: 300px;
-   width: 300px;
+   height: 250px;
+   width: 250px;
    float: left;
    margin-right: 20px;
    line-height: 4;
    text-align: right;
    position: relative;
-   bottom: 15px;
+   bottom: 25px;
    left: 30px;
    border-radius: 100%;
- }
+   }
 
  .img2 {
    height: 200px;
@@ -136,3 +134,6 @@ padding-bottom: 20px;
  a {
    color: #fff;
  }
+.hr2 {
+  padding-top: 10px;
+}
