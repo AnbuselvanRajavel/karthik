@@ -74,19 +74,13 @@ hr {
 padding-bottom: 20px;
  }
 
- .skills {
-
- }
-
- .contact-me {
-
- }
-
  .skill-row {
    margin: 100px auto 100px auto;
  }
 
  .img1 {
+   height: 200px;
+   width: 200px;
    float: left;
    margin-right: 20px;
    line-height: 4;
@@ -97,6 +91,8 @@ padding-bottom: 20px;
  }
 
  .img2 {
+   height: 200px;
+   width: 200px;
    float: right;
    margin-left: 20px;
    line-height: 4;
