@@ -30,6 +30,7 @@ hr {
    padding:0;
    list-style:none;
    text-align: right;
+   padding-right: 10px;
  }
 
  #navbar li{
